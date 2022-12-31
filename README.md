@@ -1,2 +1,2 @@
 # phanjimmy8781.github.io
-WEBSITE
+Random Website made because of boredom.
